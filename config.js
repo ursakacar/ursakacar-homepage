@@ -3,8 +3,8 @@ module.exports = {
   manifestStartUrl: '/',
   manifestIcon: 'src/assets/favicon.png',
   authorName: 'Urša Kačar',
-  headingQa: 'curious QA engineer',
-  headingBlebet: 'occasionally a writer',
+  headingQa: 'a curious QA engineer',
+  headingBlebet: 'an inconsistent writer',
 
   socialLinksPersonal: [
     {
@@ -16,14 +16,14 @@ module.exports = {
 
   socialLinksQA: [
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/ursakacar',
-    },
-    {
       icon: 'fa-gitlab',
       name: 'Gitlab',
       url: 'https://gitlab.com/ursakacar',
+    },
+    {
+      icon: 'fa-github',
+      name: 'Github',
+      url: 'https://github.com/ursakacar',
     },
     {
       icon: 'fa-linkedin',
